@@ -1,5 +1,7 @@
 import re
 from joblib.parallel import method
+import nltk
+nltk.download('stopwords')  
 from nltk.corpus import stopwords
 import pickle
 from flask import Flask, render_template,request
