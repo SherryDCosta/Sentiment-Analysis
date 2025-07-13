@@ -12,6 +12,14 @@ A Flask-based web application that performs **sentiment analysis** on user-writt
 - Trained using a Kaggle dataset of 278,100+ customer reviews from TeePublic, a custom merchandise platform.
 - Allows user to analyze multiple reviews interactively
 
+---
+
+## 🚀 Live Demo
+
+🔗 [[Click here to try the app](https://sentiment-analysis-um35.onrender.com/)]
+*(Hosted on Render)*
+
+---
 
 ## 🖼️ Screenshot
 
